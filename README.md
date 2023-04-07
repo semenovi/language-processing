@@ -1,4 +1,4 @@
-# Just another Tokenizer Collection
+# Python Tokenizers
 
 ```
 Python
